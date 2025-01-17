@@ -1,5 +1,6 @@
-# my userChrome.css file for Floorp browser (works on any Firefox based browser)
 ## DEPRECIATED, NOT SUPPORTED ANYMORE
+## Please use (this)[https://github.com/driftywinds/Floorp-Configs] instead.
+# my userChrome.css file for Floorp browser (works on any Firefox based browser)
 Just a backup of my floorp userChrome.css file with the exact way of replicating my preferred setup whenever I need to.
 
 Instructions: - 
